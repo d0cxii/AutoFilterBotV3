@@ -16,7 +16,7 @@
       "inline"
     ],
     "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "repository": "https://github.com/d0cxii/AutoFilterBotV3?organization=d0cxii&organization=d0cxii",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
